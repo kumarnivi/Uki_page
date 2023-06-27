@@ -42,11 +42,13 @@ form .button input{
    font-weight: 500px; 
   float: right;
   bottom: 100%;
+ 
   
 }
 fieldset {
   position: relative;
   background: aquamarine;
+  margin-left: 25%;
   
 }
 
